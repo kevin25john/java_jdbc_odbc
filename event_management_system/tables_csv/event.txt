@@ -1,0 +1,18 @@
+301,Wedding	,Mehendi	,8000
+312,Corporate Party	,Felicitation Ceremony	,10000
+313,Corporate Party	,Food	,8000
+314,Corporate Party	,Event Manager	,20000
+315,Anniversary	,Music	,10000
+316,Anniversary	,Event Manager	,20000
+317,Anniversary	,Food	,8000
+318,Anniversary	,Games	,8000
+302,Wedding	,Reception	,15000
+303,Wedding	,Food	,10000
+304,Wedding	,Wedding Rituals	,15000
+305,Wedding	,Music	,10000
+306,Birthday	,Food	,8000
+307,Birthday	,Event Manager	,7000
+308,Birthday	,Joker	,5000
+309,Birthday	,Games	,8000
+310,Corporate Party	,Presentation Arrangement	,8000
+311,Corporate Party	,Music	,10000
